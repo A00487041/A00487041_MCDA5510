@@ -1,0 +1,51 @@
+10/25/2024 9:34:07 PM: CSV processing error for file: C:\Users\Mohammed Thoufiq\Desktop\MSCDA\MCDA5510_Software_dev\Dotnet_AS1\ProgAssign1\Sample Data\2017\12\7\CustomerData8.csv. Exception: Field at index '7' does not exist. You can ignore missing fields by setting MissingFieldFound to null.
+IReader state:
+   ColumnCount: 7
+   CurrentIndex: 7
+   HeaderRecord:
+["First Name","Last Name","Street Number","Street","City","Province","Postal Code","Country","Phone Number","email Address"]
+IParser state:
+   ByteCount: 0
+   CharCount: 1600
+   Row: 17
+   RawRow: 17
+   Count: 7
+   RawRecord:
+"",Thomas,493,Bermuda Avenue,Norfolk County,Prince Edward Island,J9P 1C6
+
+
+10/25/2024 9:34:07 PM: CSV processing error for file: C:\Users\Mohammed Thoufiq\Desktop\MSCDA\MCDA5510_Software_dev\Dotnet_AS1\ProgAssign1\Sample Data\2018\1\1\CustomerData1.csv. Exception: Field at index '1' does not exist. You can ignore missing fields by setting MissingFieldFound to null.
+IReader state:
+   ColumnCount: 1
+   CurrentIndex: 1
+   HeaderRecord:
+["First Name","Last Name","Street Number","Street","City","Province","Postal Code","Country","Phone Number","email Address"]
+IParser state:
+   ByteCount: 0
+   CharCount: 1794
+   Row: 20
+   RawRow: 20
+   Count: 1
+   RawRecord:
+Liam
+
+
+10/25/2024 9:34:07 PM: CSV processing error for file: C:\Users\Mohammed Thoufiq\Desktop\MSCDA\MCDA5510_Software_dev\Dotnet_AS1\ProgAssign1\Sample Data\2018\1\11\CustomerData5.csv. Exception: Field at index '7' does not exist. You can ignore missing fields by setting MissingFieldFound to null.
+IReader state:
+   ColumnCount: 6
+   CurrentIndex: 7
+   HeaderRecord:
+["First Name","Last Name","Street Number","Street","City","Province","Postal Code","Country","Phone Number","email Address"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2210
+   Row: 22
+   RawRow: 22
+   Count: 6
+   RawRecord:
+William,Brond Labrador,"B0T 0Y5 ",Canada,212829827,William@system.com
+
+
+10/25/2024 9:34:27 PM: Directory walk completed. Total time: 00:00:23.4780910
+10/25/2024 9:34:27 PM: Total valid rows: 201724, Total skipped rows: 81080
+10/25/2024 9:34:28 PM: Valid customers written to: C:\Users\Mohammed Thoufiq\Desktop\MSCDA\MCDA5510_Software_dev\Dotnet_AS1\ProgAssign1\Output\valid_customers.csv

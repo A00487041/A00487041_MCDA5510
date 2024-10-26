@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xfix5ScL8Ao=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mohammed Thoufiq\\Desktop\\MSCDA\\MCDA5510_Software_dev\\Dotnet_AS1\\DirWalker\\DirWalker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohammed Thoufiq\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
