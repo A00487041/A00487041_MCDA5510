@@ -7,6 +7,9 @@ This .NET program traverses through all directories and subdirectories within a 
 **Features**
 
 **Directory Traversal**: Recursively searches for subdirectories and files, logging each directory name.
+
 **CSV Processing:** Reads CSV files and validates each record, adding a Date value from the directory structure.
+
 **Logging:** Logs all activities, including skipped rows and errors, to a file.
+
 **Execution Summary:** Provides total execution time, valid and skipped row counts, enhancing data quality and process insights.
