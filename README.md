@@ -1,5 +1,9 @@
-My name is Mohammed Abdul Thoufiq, and my preferred name is Thoufiq. I am from India, where I completed my undergraduate degree in Electronics and Communication Engineering. I then joined Deloitte as a Data Analyst and worked there for 1.8 years. My A-number is A00487041, and my preferred email is mohammed.abdul.thoufiq.-@smu.ca
+Directory Traversal and CSV Processing Project
+Overview
+This .NET program traverses through all directories and subdirectories within a specified path, logging the names of directories and processing CSV files found within them. Each CSV file contains records that the program reads, validates, and enriches with a Date field based on the directory structure. Incomplete or invalid records are logged and counted as skipped, while valid rows are processed. Upon completion, the program logs execution details, including the total number of valid and skipped rows and the time taken for execution.
 
-I am interested in technologies such as Data Science, Data Engineering, and Data Analysis. I also have an interest in learning Full Stack Web Development.
-
-A fun fact about me is that I love collecting sneakers. I once won a pair of sneakers worth $900 for just $120 in a Nike raffle.
+Features
+Directory Traversal: Recursively searches for subdirectories and files, logging each directory name.
+CSV Processing: Reads CSV files and validates each record, adding a Date value from the directory structure.
+Logging: Logs all activities, including skipped rows and errors, to a file.
+Execution Summary: Provides total execution time, valid and skipped row counts, enhancing data quality and process insights.
